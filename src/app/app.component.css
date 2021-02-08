@@ -1,0 +1,20 @@
+button{
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+div{
+    margin-left: 2rem;
+    margin-bottom: 3rem;
+}
+tr{
+    margin: 2rem;
+}
+td{
+    margin: 2rem;
+}
+mat-grid-tile {
+    background: lightblue;
+  }
+  table {
+    width: 100%;
+  }
